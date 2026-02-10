@@ -12,7 +12,6 @@ Whether you're a student or a professional, you'll find free tutorials designed 
 
 ### 📺 Stay Connected
 * **YouTube:** [Subscribe to BlueQoder](https://youtube.com/@BlueQoder)
-* **Website:** [Optional: Your portfolio link]
-* **LinkedIn:** [Optional: Your profile link]
 
-> All code for the tutorials is available right here in this GitHub organization. 🚀 **Subscribe to level up your dev skills!**
+
+> Code for the tutorials is available right here in this GitHub organization. 🚀 **Subscribe to level up your dev skills!**
